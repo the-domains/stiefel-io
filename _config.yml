@@ -1,0 +1,14 @@
+layout_spectrum: 0.8797605
+typography_spectrum: 0.2059958
+color:
+  saturation: 0.3286112
+  lightness: 0.1156219
+  brandStrength: 0.5243938
+  rhythmicContrast: 0.9623567
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: stiefel.io
