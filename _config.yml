@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.3286112
-  lightness: 0.1156219
   brandStrength: 0.5243938
+  rhythmicContrast: 0.9623567
   brandColors:
     - '#383A42'
     - '#90645D'
     - '#A3A2A4'
     - '#FAFFFF'
     - '#3A3604'
-  rhythmicContrast: 0.9623567
+  lightness: 0.1156219
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.3924731
 name: stiefel.io
